@@ -5,4 +5,5 @@ Topics
 3. classes: properties and methods
 4. modifiers: access and non-access.
 
-5. Inheritance: inheriting, super/child constructors, overriding, shadowing/differentiating
+5. Inheritance: inheriting, super/child constructors, overriding/shadowing/differentiating
+6. PolyMorphism
