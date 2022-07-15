@@ -7,3 +7,7 @@ Topics
 
 5. Inheritance: inheriting, super/child constructors, overriding/shadowing/differentiating
 6. PolyMorphism
+7. Abstract classes
+8. Interfaces
+9. Type-casting
+10. Importing/packages
